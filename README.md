@@ -8,7 +8,7 @@
 ## Welcome!
 This repository contains a collection of interaction experiments made with Unity, using Ultraleap hand tracking.
 
-[Skip to contents :fast_forward:](#Contents)
+[Skip to contents :fast_forward:](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments#contents)
 
 ### How it works:
 These Experiments are a small snapshot of an idea, they may not be complete and are intended to be examined, played with and built upon. They represent a theme or idea that you may find insightful of thought provoking
@@ -19,6 +19,8 @@ These Experiments are a small snapshot of an idea, they may not be complete and 
   * These will be listed in the branch Readme
 * Experiments may contain 3rd party content that is shareable with a suitable license
 * Due to the [Apache license][apache], you may modify, build and share this content while following the terms of the license
+
+**To get started**: Browse the [Contents](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments#contents) section for a title or video that you like, select the title and clone the repository at that branch to get started!
 
 ## Warnings
 
