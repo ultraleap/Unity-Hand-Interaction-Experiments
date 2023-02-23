@@ -5,6 +5,10 @@
 <!--content-->
 # Particle Playground
 
+https://user-images.githubusercontent.com/60962475/220971019-3284e669-4b79-4193-b247-b643fdfd550d.mp4
+
+## What is available?
+
 * Spawn particles by pointing your index finger(s)
 * Push and pull particles my waving your hand through the particles
 * Pinch/Grab to attract nearby particles to your palm
