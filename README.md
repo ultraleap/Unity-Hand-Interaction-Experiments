@@ -33,7 +33,9 @@ create.
 If you require assistance whilst working with this repository we recommend our [Help Center](https://support.leapmotion.com/hc/en-us), [Discord Server](https://discord.gg/3VCndThqxS) or our [Documentation Site](https://docs.ultraleap.com/unity-api/) to help you find the answers or get support from the wider developer community.
 
 ## Contents
-[Example Experiment 1 Title](#Welcome)
+### 1. [Particle Playground](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Particle_Playground)
+
+https://user-images.githubusercontent.com/60962475/220971019-3284e669-4b79-4193-b247-b643fdfd550d.mp4
 
 ## How to contribute
 Ultraleap employees wishing to contribute should follow [this guide][contribute guide]
