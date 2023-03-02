@@ -23,8 +23,12 @@ These Experiments are a small snapshot of an idea, they may not be complete and 
 
 ## Contents
 ### 1. [Particle Playground](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Particle_Playground)
-
 https://user-images.githubusercontent.com/60962475/220971019-3284e669-4b79-4193-b247-b643fdfd550d.mp4
+
+
+### 2. [Paper Planes](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Paper_Planes)
+https://user-images.githubusercontent.com/60962475/222448306-50dc6d55-f5b2-4f61-933d-168de00a4654.mp4
+
 
 ## Warnings
 This repository has been made available for you to work with, edit and make your own versions.
