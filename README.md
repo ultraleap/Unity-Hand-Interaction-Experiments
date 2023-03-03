@@ -29,6 +29,9 @@ https://user-images.githubusercontent.com/60962475/220971019-3284e669-4b79-4193-
 ### 2. [Paper Planes](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Paper_Planes)
 https://user-images.githubusercontent.com/60962475/222448306-50dc6d55-f5b2-4f61-933d-168de00a4654.mp4
 
+### 3. [Mesh Painting](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Mesh_Painter)
+https://user-images.githubusercontent.com/60962475/222787378-19f85d97-687a-497b-85ef-4eccb932423e.mp4
+
 
 ## Warnings
 This repository has been made available for you to work with, edit and make your own versions.
