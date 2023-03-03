@@ -5,6 +5,7 @@
 <!--content-->
 # Mesh Painting
 
+https://user-images.githubusercontent.com/60962475/222787378-19f85d97-687a-497b-85ef-4eccb932423e.mp4
 
 ## What is available?
 
