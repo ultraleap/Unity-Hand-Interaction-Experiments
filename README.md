@@ -3,17 +3,17 @@
 [contribute guide]: https://ultrahaptics.atlassian.net/wiki/spaces/~731335552/pages/3903455552/Unity+Hand+Interaction+Experiments+GitHub+Repo#Repo-%E2%80%98Rules%E2%80%99
 
 <!--content-->
-# Paper Planes
-
-https://user-images.githubusercontent.com/60962475/222446737-cb9ea314-e250-43a2-904c-27070a4e19e0.mp4
+# Mesh Painting
 
 
 ## What is available?
 
-* Spawn Planes by pinching
-* Throw them by throwing and releasing the pinch
-* Planes collide and fall
-* You can hit planes from the sky
+* A nested hand menu on the left hand
+* Pinch and drag to paint convex meshes or primitives
+* Change colours of meshes
+* Add to existing meshes
+* Pick up, move and scale created objects
+* Delete created objects
 
 ## This project was built with
 
