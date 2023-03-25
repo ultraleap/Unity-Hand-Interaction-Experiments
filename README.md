@@ -3,18 +3,15 @@
 [contribute guide]: https://ultrahaptics.atlassian.net/wiki/spaces/~731335552/pages/3903455552/Unity+Hand+Interaction+Experiments+GitHub+Repo#Repo-%E2%80%98Rules%E2%80%99
 
 <!--content-->
-# Mesh Painting
+# Marble Run
 
-https://user-images.githubusercontent.com/60962475/222787378-19f85d97-687a-497b-85ef-4eccb932423e.mp4
 
 ## What is available?
 
-* A nested hand menu on the left hand
-* Pinch and drag to paint convex meshes or primitives
-* Change colours of meshes
-* Add to existing meshes
-* Pick up, move and scale created objects
-* Delete created objects
+* A hand menu on the left hand
+* Move objects around, push them and pick them up
+* Simple object-to-object snapping system
+* Simple object rotation snapping system
 
 ## This project was built with
 
