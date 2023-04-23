@@ -256,7 +256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ff0af25a42234d45bf9c40e0feefc8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  provider: {fileID: 0}
+  leapProvider: {fileID: 0}
   pinchThreshold: 25
   coupling: 0.144
   damping: 0.007
@@ -689,6 +689,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5213610774330965181}
     - target: {fileID: 6192367420906785268, guid: 40d7516cea4810941b1168e95c8b2dfb,
+        type: 3}
+      propertyPath: waft
+      value: 
+      objectReference: {fileID: 5213610774699661548}
+    - target: {fileID: 7587538130062901659, guid: 40d7516cea4810941b1168e95c8b2dfb,
+        type: 3}
+      propertyPath: waft
+      value: 
+      objectReference: {fileID: 5213610774699661548}
+    - target: {fileID: 7587538130896915781, guid: 40d7516cea4810941b1168e95c8b2dfb,
         type: 3}
       propertyPath: waft
       value: 

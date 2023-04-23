@@ -22,9 +22,9 @@ These Experiments are a small snapshot of an idea, they may not be complete and 
 **To get started**: Browse the [Contents](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments#contents) section for a title or video that you like, select the title and clone the repository at that branch to get started!
 
 ## Contents
+
 ### 1. [Particle Playground](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Particle_Playground)
 https://user-images.githubusercontent.com/60962475/220971019-3284e669-4b79-4193-b247-b643fdfd550d.mp4
-
 
 ### 2. [Paper Planes](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Paper_Planes)
 https://user-images.githubusercontent.com/60962475/222448306-50dc6d55-f5b2-4f61-933d-168de00a4654.mp4
@@ -34,6 +34,9 @@ https://user-images.githubusercontent.com/60962475/222787378-19f85d97-687a-497b-
 
 ### 4. [Marble Run](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Marble_Run)
 https://user-images.githubusercontent.com/60962475/227709246-300ecdff-8032-4aec-8e23-045ee8c900cb.mp4
+
+### 5. [Waft Locomotion] (https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/WaftLocomotion)
+
 
 ## Warnings
 This repository has been made available for you to work with, edit and make your own versions.
