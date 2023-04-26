@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/60962475/222787378-19f85d97-687a-497b-
 https://user-images.githubusercontent.com/60962475/227709246-300ecdff-8032-4aec-8e23-045ee8c900cb.mp4
 
 ### 5. [Waft Locomotion](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/WaftLocomotion)
-https://user-images.githubusercontent.com/17143693/234628630-623bf6aa-480c-4c7d-90b8-ccfda4012020.mp4
+https://user-images.githubusercontent.com/17143693/234630075-8c6061c6-1044-479e-8a5d-122d4ee97e39.mp4
 
 ## Warnings
 This repository has been made available for you to work with, edit and make your own versions.
