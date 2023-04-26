@@ -37,6 +37,14 @@ https://user-images.githubusercontent.com/60962475/227709246-300ecdff-8032-4aec-
 
 ### 5. [Waft Locomotion](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/WaftLocomotion)
 
+Waft Locomotion is an XR locomotion method, where you build up your velocity by pinching and moving your hand.
+https://user-images.githubusercontent.com/17143693/234604388-230dca5c-1f64-420a-b09a-18d5b24f8c90.mp4
+
+Waft Locomotion uses "Glove" to enable/disable itself - an interaction where you swipe along your hand to enter/exit a state.
+https://user-images.githubusercontent.com/17143693/234604485-37cd81ab-a79f-42ae-9a42-d85a3be1db44.mp4
+
+Waft Locomotion also contains an unused Rotation Guide gizmo, which guides a user into a specific hand rotation. 
+https://user-images.githubusercontent.com/17143693/234604513-970842d9-4630-4fb6-9f56-2af7f3f5bb64.mp4
 
 ## Warnings
 This repository has been made available for you to work with, edit and make your own versions.
