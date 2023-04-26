@@ -4,7 +4,7 @@
 
 <!--content-->
 # Waft Locomotion
-https://user-images.githubusercontent.com/17143693/234627401-fc123cea-d078-4486-8ab1-c57a9ffd7b72.mp4
+https://user-images.githubusercontent.com/17143693/234629892-d17b0f72-3402-48e3-b5c6-2c138feb6848.mp4
 
 ## What is available?
 
