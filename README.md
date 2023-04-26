@@ -35,6 +35,9 @@ https://user-images.githubusercontent.com/60962475/222787378-19f85d97-687a-497b-
 ### 4. [Marble Run](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Marble_Run)
 https://user-images.githubusercontent.com/60962475/227709246-300ecdff-8032-4aec-8e23-045ee8c900cb.mp4
 
+### 5. [Waft Locomotion](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/WaftLocomotion)
+https://user-images.githubusercontent.com/17143693/234628630-623bf6aa-480c-4c7d-90b8-ccfda4012020.mp4
+
 ## Warnings
 This repository has been made available for you to work with, edit and make your own versions.
 This repository and any derivatives of it is presented on an ‘as-is’ basis in line with the [Apache
