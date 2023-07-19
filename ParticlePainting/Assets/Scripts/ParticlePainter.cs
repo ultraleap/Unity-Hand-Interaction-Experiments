@@ -46,6 +46,7 @@ public class ParticlePainter : MonoBehaviour
     {
         _vfx.SetVector3("PaintPosition", hand.GetPredictedPinchPosition());
         _lastPosition = hand.GetPredictedPinchPosition();
+        _vfx.SetVector3("LastPaintPosition", _lastPosition);
         _vfx.SendEvent("OnPinch");
     }
 
