@@ -41,6 +41,9 @@ https://user-images.githubusercontent.com/17143693/234630075-8c6061c6-1044-479e-
 ### 6. [Summoning](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Summoning)
 https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/60962475/a308c46c-56d4-45f9-8356-63e22b29185c
 
+### 7. [Particle Painting](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Particle_Painting)
+https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/6281246/4dac8e00-fb3e-4102-a958-3741c0b132bb
+
 ## Warnings
 This repository has been made available for you to work with, edit and make your own versions.
 This repository and any derivatives of it is presented on an ‘as-is’ basis in line with the [Apache
