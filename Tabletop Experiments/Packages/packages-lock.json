@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.rorygames.vhacd": {
+      "version": "https://github.com/rorygames/VHACD.git?path=/com.rorygames.vhacd",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f4f20c91e7257ae98ea58b7c2fe59fcb98bac85d"
+    },
     "com.ultraleap.tracking": {
       "version": "6.10.0",
       "depth": 0,

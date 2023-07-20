@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.rorygames.vhacd": "https://github.com/rorygames/VHACD.git?path=/com.rorygames.vhacd",
     "com.ultraleap.tracking": "6.10.0",
     "com.unity.collab-proxy": "2.0.4",
     "com.unity.feature.development": "1.0.1",
