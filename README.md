@@ -3,45 +3,34 @@
 [contribute guide]: https://ultrahaptics.atlassian.net/wiki/spaces/~731335552/pages/3903455552/Unity+Hand+Interaction+Experiments+GitHub+Repo#Repo-%E2%80%98Rules%E2%80%99
 
 <!--content-->
-# Unity Hand Interaction Experiments
+# Tabletop Experiments
 
-## Welcome!
-This repository contains a collection of interaction experiments made with Unity, using Ultraleap hand tracking.
+Insert video here
 
-[Skip to contents :fast_forward:](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments#contents)
+## What is available?
 
-### How it works:
-These Experiments are a small snapshot of an idea, they may not be complete and are intended to be examined, played with and built upon. They represent a theme or idea that you may find insightful of thought provoking
+These experiments were built as part of a game jam - read about it, and our learnings, here (blog coming soon)
 
-* Each branch of this repository represents a different experiment
-* An experiment can contain any number of dependencies, e.g. Unity version, Render Pipeline, XR headset...
-  * These will be listed in the branch Readme
-* Experiments may contain 3rd party content that is shareable with a suitable license
-* Due to the [Apache license][apache], you may fork, clone, download, modify, build and share this content while following the terms of the license
+### Two Handed View Manipulation
 
-**To get started**: Browse the [Contents](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments#contents) section for a title or video that you like, select the title and clone the repository at that branch to get started!
+https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/17143693/b7e7f07b-ad7c-4a70-9031-370a1d2db8fb
 
-## Contents
-### 1. [Particle Playground](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Particle_Playground)
-https://user-images.githubusercontent.com/60962475/220971019-3284e669-4b79-4193-b247-b643fdfd550d.mp4
+Use Two Hands to grab and move the camera - Zooming and Rotating around an object.
 
+### Sock Puppets
 
-### 2. [Paper Planes](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Paper_Planes)
-https://user-images.githubusercontent.com/60962475/222448306-50dc6d55-f5b2-4f61-933d-168de00a4654.mp4
+https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/17143693/8b9b493d-f90a-41af-8d30-260573c941e3
 
-### 3. [Mesh Painting](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Mesh_Painter)
-https://user-images.githubusercontent.com/60962475/222787378-19f85d97-687a-497b-85ef-4eccb932423e.mp4
+Use your hand to control a dog-sock puppet
 
-### 4. [Marble Run](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Toys/Marble_Run)
-https://user-images.githubusercontent.com/60962475/227709246-300ecdff-8032-4aec-8e23-045ee8c900cb.mp4
+## This project was built with
 
-### 5. [Waft Locomotion](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/WaftLocomotion)
-https://user-images.githubusercontent.com/17143693/234630075-8c6061c6-1044-479e-8a5d-122d4ee97e39.mp4
-
-### 6. [Summoning](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/tree/Summoning)
-https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/60962475/a308c46c-56d4-45f9-8356-63e22b29185c
+* Unity 2021.3.25f1
+* Ultraleap Tracking Plugin 6.10.0 (via OpenUPM)
+* Built in Render Pipeline
 
 ## Warnings
+
 This repository has been made available for you to work with, edit and make your own versions.
 This repository and any derivatives of it is presented on an ‘as-is’ basis in line with the [Apache
 license][apache]. Unless it is an officially released application available from our website or an explicitly
@@ -49,6 +38,3 @@ agreed license, it is not supported by Ultraleap and we are not responsible for 
 create.
 
 If you require assistance whilst working with this repository we recommend our [Help Center](https://support.leapmotion.com/hc/en-us), [Discord Server](https://discord.gg/3VCndThqxS) or our [Documentation Site](https://docs.ultraleap.com/unity-api/) to help you find the answers or get support from the wider developer community.
-
-## How to contribute
-Ultraleap employees wishing to contribute should follow [this guide][contribute guide]
