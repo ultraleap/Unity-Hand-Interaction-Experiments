@@ -17,7 +17,7 @@ Use Two Hands to grab and move the camera - Zooming and Rotating around an objec
 
 ### 2D Grabbing and Anchors
 
-https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/6270995/6b07ac7a-dea5-4b13-9e45-2a0908ad6a8d
+https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/6270995/58d37614-a5d5-48d5-8f3e-d0ae09f5265d
 
 Use your hands in screenspace to grab objects and drop them on anchors.
 
