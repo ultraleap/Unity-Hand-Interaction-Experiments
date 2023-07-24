@@ -38,9 +38,6 @@ public class ObjGrabbable : Obj
         }
     }
 
-    private AudioSource _audioSource;
-    private AudioClip _audioClip;
-
     //Anchored info
     private ObjAnchor _anchor = null;
     public ObjAnchor Anchor
@@ -51,26 +48,13 @@ public class ObjGrabbable : Obj
         }
         set
         {
-            if (!SetAnchorSilent(value)) return;
+            if (value == _anchor) return;
+            if (value != null && (value.IsAnchored || !value.IsActive)) return; //Only one object per anchor
 
-            if (_anchor == null) return;
-            if (_audioSource == null) _audioSource = GameObject.FindWithTag("AudioSourceFX").GetComponent<AudioSource>();
-            if (_audioClip == null) _audioClip = Resources.Load<AudioClip>("SOUNDS/switchOn");
-            _audioSource.clip = _audioClip;
-            _audioSource.time = 0.15f;
-            _audioSource.volume = 0.5f;
-            _audioSource.Play();
+            _anchor = value;
+            this.transform.parent = _anchor?.transform;
+            OnAnchored?.Invoke(this, _anchor);
         }
-    }
-    // sets Anchor without playing the audio. Returns true if it set a new anchor
-    public bool SetAnchorSilent(ObjAnchor value)
-    {
-        if (value == _anchor) return false;
-        if (value != null && (value.IsAnchored || !value.IsActive)) return false; //Only one object per anchor
-        _anchor = value;
-        this.transform.parent = _anchor?.transform;
-        OnAnchored?.Invoke(this, _anchor);
-        return true;
     }
 
     public bool IsAnchored

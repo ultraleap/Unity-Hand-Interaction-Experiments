@@ -10,7 +10,7 @@ public class GrabbingExample : MonoBehaviour
     {
         for (int i = 0; i < _defaultPairs.Count; i++)
         {
-            _defaultPairs[i].Grabbable.SetAnchorSilent(_defaultPairs[i].Anchor);
+            _defaultPairs[i].Grabbable.Anchor = _defaultPairs[i].Anchor;
         }
     }
 
