@@ -5,8 +5,6 @@
 <!--content-->
 # Tabletop Experiments
 
-Insert video here
-
 ## What is available?
 
 These experiments were built as part of a game jam - read about it, and our learnings, here (blog coming soon)
@@ -16,6 +14,12 @@ These experiments were built as part of a game jam - read about it, and our lear
 https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/17143693/b7e7f07b-ad7c-4a70-9031-370a1d2db8fb
 
 Use Two Hands to grab and move the camera - Zooming and Rotating around an object.
+
+### 2D Grabbing and Anchors
+
+https://github.com/ultraleap/Unity-Hand-Interaction-Experiments/assets/6270995/6b07ac7a-dea5-4b13-9e45-2a0908ad6a8d
+
+Use your hands in screenspace to grab objects and drop them on anchors.
 
 ### Sock Puppets
 
