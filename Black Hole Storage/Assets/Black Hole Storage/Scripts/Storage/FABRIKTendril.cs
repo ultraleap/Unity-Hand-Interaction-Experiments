@@ -80,13 +80,14 @@ namespace Leap.Unity.Interaction.Storage
 
         void UpdateLineRendererFABRIKPositions()
         {
-            Vector3[] lineRendererPositions = new Vector3[_lineRenderer.positionCount];
+            Vector3[] lineRendererPositions = new Vector3[_childEffectors.Length];
 
             for (int i = 0; i < _childEffectors.Length - 1; i++)
             {
                 lineRendererPositions[i] = _childEffectors[i].position;
             }
 
+            _lineRenderer.positionCount = lineRendererPositions.Length;
             lineRendererPositions[_childEffectors.Length - 1] = easyIK.ikTarget.position;
             _lineRenderer.SetPositions(lineRendererPositions);
         }
