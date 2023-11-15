@@ -37,3 +37,10 @@ Building off storage are `TendrilStorage` - a storage iteration which use [EasyI
 We include two prefabs - `Storage - Unstyled` and `Storage - Tendril`. Storage unstyled is purely a functional, base storage object. It uses `Storage.cs`, which is a good class to build off of to extend and style your own storage solutions.
 
 `Storage - Tendril` is built off of `Storage.cs`, using `TendrilStorage.cs`. It uses FABRIK Chains as "tendrils" which elegantly provide storage radius information to a user.
+
+## This project was built with
+
+* Unity 2022.3.9f1
+* Ultraleap Tracking Plugin 6.12.1 (via OpenUPM)
+* OpenXR
+* Built in Render Pipeline
