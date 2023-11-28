@@ -1,5 +1,5 @@
 <!--links-->
-[apache]: http://www.apache.org/licenses/LICENSE-2.0 "Apache V2 License"
+[bsd3]: https://opensource.org/license/bsd-3-clause/ "3-Clause BSD License"
 [contribute guide]: https://ultrahaptics.atlassian.net/wiki/spaces/~731335552/pages/3903455552/Unity+Hand+Interaction+Experiments+GitHub+Repo#Repo-%E2%80%98Rules%E2%80%99
 
 <!--content-->
@@ -17,7 +17,7 @@ These Experiments are a small snapshot of an idea, they may not be complete and 
 * An experiment can contain any number of dependencies, e.g. Unity version, Render Pipeline, XR headset...
   * These will be listed in the branch Readme
 * Experiments may contain 3rd party content that is shareable with a suitable license
-* Due to the [Apache license][apache], you may fork, clone, download, modify, build and share this content while following the terms of the license
+* Due to the [BSD-3 License][bsd3], you may fork, clone, download, modify, build and share this content while following the terms of the license
 
 **To get started**: Browse the [Contents](https://github.com/ultraleap/Unity-Hand-Interaction-Experiments#contents) section for a title or video that you like, select the title and clone the repository at that branch to get started!
 
@@ -43,8 +43,7 @@ These Experiments are a small snapshot of an idea, they may not be complete and 
 
 ## Warnings
 This repository has been made available for you to work with, edit and make your own versions.
-This repository and any derivatives of it is presented on an ‘as-is’ basis in line with the [Apache
-license][apache]. Unless it is an officially released application available from our website or an explicitly
+This repository and any derivatives of it is presented on an ‘as-is’ basis in line with the [BSD-3 License][bsd3]. Unless it is an officially released application available from our website or an explicitly
 agreed license, it is not supported by Ultraleap and we are not responsible for anything that you
 create.
 
