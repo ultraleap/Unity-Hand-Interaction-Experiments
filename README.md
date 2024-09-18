@@ -5,7 +5,7 @@
 <!--content-->
 # Fiducial Markers
 
-https://github.com/user-attachments/assets/aeb4dadc-38a0-47d7-876c-586dfb2734eb
+https://github.com/user-attachments/assets/b45c84ad-813e-4941-a396-8547a73e5d1b
 
 A functional implementation of fiducial markers using Ultraleap Hyperion's fiducial support.
 
